@@ -46,14 +46,14 @@
 - Programming Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,js" />
+    <img src="https://skillicons.dev/icons?i=cs,js" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs" />
   </a>
 </p>
 
@@ -74,6 +74,6 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,bash,dotnet" />
   </a>
 </p>
