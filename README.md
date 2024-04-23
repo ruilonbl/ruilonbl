@@ -74,6 +74,6 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,bash,dotnet" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,bash,dotnet,gitlab" />
   </a>
 </p>
