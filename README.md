@@ -46,7 +46,7 @@
 - Programming Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js" />
+    <img src="https://skillicons.dev/icons?i=cs,js,ts" />
   </a>
 </p>
 
